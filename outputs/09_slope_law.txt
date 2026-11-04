@@ -1,0 +1,9 @@
+slope law: a = 3.41 +- 0.30, D0 = 0.129 +- 0.007, chi2 = 2.9/5; predicted D=0.10: 5.47 (measured 5.48 +- 0.6); D=0.30: 21.9
+free exponent p = 1.85 +- 0.18
+quartic share at 0.38 = -5.9 +- 9.5 %
+linear law: a = -6.3, chi2 = 23, predicted D=0.10: 3.09
+D0 = 0.1: slope(0.30) held fixed predicts 6.37 +- 0.21 at 0.14 vs 7.26 +- 0.26: 2.7 sigma (measurement error only: 3.4)
+D0 = 0.18: slope(0.30) held fixed predicts 9.14 +- 0.30 at 0.14 vs 7.26 +- 0.26: 4.7 sigma (measurement error only: 7.2)
+self-doping a/(1-D^2/Dc^2)^2: best chi2 = 168 (Dc = 0.52)
+quartic from emptying pocket, D^2(1+2D^2/Dc^2): Dc >= 1.27 V/nm at 2 sigma
+a + c(D-Doff)^2: best Doff = -0.046, 2 sigma range -0.258 .. +0.038 V/nm

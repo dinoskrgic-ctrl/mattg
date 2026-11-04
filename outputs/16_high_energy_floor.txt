@@ -1,0 +1,12 @@
+c'=+0.0 a=0.0: numeric b = 1.000   formula 1.000
+c'=+0.0 a=1.0: numeric b = 1.608   formula 1.608
+c'=+1.0 a=0.0: numeric b = 1.010   formula 1.000
+c'=+1.0 a=1.0: numeric b = 1.618   formula 1.608
+c'=-0.5 a=0.0: numeric b = 0.996   formula 1.000
+c'=-0.5 a=1.0: numeric b = 1.604   formula 1.608
+ceiling vs offset c' (I0 counted from |x|+c'):
+   c'=-0.5: Q_max = 2.343 at k = 3.675
+   c'=+0.0: Q_max = 3.234 at k = 2.829
+   c'=+0.5: Q_max = 4.543 at k = 2.554
+   c'=+1.0: Q_max = 6.186 at k = 2.616
+   c'=+2.0: Q_max = 9.669 at k = 3.616

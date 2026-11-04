@@ -1,0 +1,3 @@
+s0 = 0.96242 (golden: 2 ln phi = 0.96242), c' = -3.3e-16: C_b = 6.2382, b_dial = 2.2815, Q = 2.7342
+conformal: C_b=7.3698 b=3.0000 Q=2.4566
+ratio sharp/relaxed = 0.846, conformal/sharp = 0.898

@@ -1,0 +1,16 @@
+conformal: I0 = 6.57974  (2pi^2/3 = 6.57974)  -> b_dial = 3.0000
+   numeric E=  60 T in [0.05,0.6]: b_dial = 3.001
+   numeric E= 120 T in [0.05,0.6]: b_dial = 3.000
+   numeric E=  60 T in [0.02,0.3]: b_dial = 3.000
+   numeric E= 200 T in [0.1,2.0]: b_dial = 3.000
+   C_b = 7.3698 (2pi^3/7zeta3 = 7.3698),  Q_dial = C_b/b_dial = 2.457  (paper I own-channel conformal: 4.913)
+floor |x|+0.5e^-|x|: formula b=1.304  numeric b=1.304  C_b=3.524  Q_dial=2.703
+floor |x|+1.0e^-|x|: formula b=1.608  numeric b=1.608  C_b=4.643  Q_dial=2.888
+floor |x|+2.0e^-|x|: formula b=2.216  numeric b=2.216  C_b=6.319  Q_dial=2.852
+shape scan (a = floor strength): b_dial from I0 formula, C_b from Kubo, Q_dial = C_b/b_dial
+  exp    a=0.1: b=1.06 Cb=2.08 Q=1.96 | a=0.3: b=1.18 Cb=2.93 Q=2.48 | a=1: b=1.61 Cb=4.64 Q=2.89 | a=3: b=2.82 Cb=7.69 Q=2.72 | a=10: b=7.08 Cb=14.71 Q=2.08
+  sech   a=0.1: b=1.19 Cb=2.18 Q=1.83 | a=0.3: b=1.57 Cb=3.26 Q=2.07 | a=1: b=2.91 Cb=5.85 Q=2.01 | a=3: b=6.73 Cb=11.57 Q=1.72 | a=10: b=20.10 Cb=28.55 Q=1.42
+  gauss  a=0.1: b=1.11 Cb=2.17 Q=1.96 | a=0.3: b=1.32 Cb=3.21 Q=2.43 | a=1: b=2.08 Cb=5.58 Q=2.68 | a=3: b=4.23 Cb=10.33 Q=2.44 | a=10: b=11.78 Cb=22.30 Q=1.89
+  smooth a=0.1: b=1.01 Cb=1.80 Q=1.77 | a=0.3: b=1.08 Cb=2.57 Q=2.38 | a=1: b=1.60 Cb=4.50 Q=2.82 | a=3: b=4.21 Cb=9.26 Q=2.20 | a=10: b=18.36 Cb=25.77 Q=1.40
+NOTE: baths whose spectral weight carries a 1/w tail set by T (paper-I arctan family, Gamma = gamma T) give a
+non-integrable excess (dphi ~ -ln x): b_dial then runs with ln T and needs the self-consistent thermal-mass calculation (not done).

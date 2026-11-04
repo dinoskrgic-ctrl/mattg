@@ -1,0 +1,15 @@
+optimum k = 2.82900, crossing x_c = 1.19485: C_b = 4.9713, b_dial = 1.5373, Q_max = 3.2337
+Q along the optimal family:
+   k= 0.500: C_b= 2.185 b= 1.019 Q=2.1449
+   k= 1.000: C_b= 2.860 b= 1.074 Q=2.6619
+   k= 2.000: C_b= 4.041 b= 1.283 Q=3.1486
+   k= 3.000: C_b= 5.161 b= 1.597 Q=3.2311
+   k= 2.829: C_b= 4.971 b= 1.537 Q=3.2337
+   k= 6.000: C_b= 8.420 b= 2.943 Q=2.8613
+   k=10.000: C_b=12.666 b= 5.260 Q=2.4079
+   k=20.000: C_b=23.075 b=12.193 Q=1.8925
+3000 random non-negative excesses: largest Q = 3.0617 (must be < Q_max)
+conformal x coth(x/2): C_b=7.3698 b=3.0000 Q=2.4566 = 0.760 of the bound
+without dphi>=0: phi = max(|x|-delta, 0)+... lowers C_b; check phi=|x|*tanh-type deficits:
+   deficit a=0.3: Q=0.0808
+   deficit a=1.0: Q=0.0000

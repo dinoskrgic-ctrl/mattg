@@ -1,0 +1,18 @@
+14-55 K: s2/s1 = 2.11%, rank-one share = 99.947%
+14-70 K: s2/s1 = 1.84%, rank-one share = 99.950%
+14-78 K: s2/s1 = 1.82%, rank-one share = 99.946%
+D=0.14: T_max (quadratic 40-76 K) = 70.8 K
+D=0.20: T_max (quadratic 40-76 K) = 61.4 K
+D=0.24: T_max (quadratic 40-76 K) = 59.6 K
+D=0.27: T_max (quadratic 40-76 K) = 58.7 K
+D=0.30: T_max (quadratic 40-76 K) = 57.7 K
+D=0.34: T_max (quadratic 40-76 K) = 58.2 K
+D=0.38: T_max (quadratic 40-76 K) = 58.3 K
+window 12-78 K, background off: n = 1.079, T* = 57.3 K
+window 12-78 K, background on : n = 1.161, T* = 53.4 K
+window 12-60 K, background off: n = 1.091, T* = 57.1 K
+window 12-60 K, background on : n = 1.138, T* = 53.2 K
+window 15-78 K, background off: n = 1.065, T* = 57.3 K
+window 15-78 K, background on : n = 1.163, T* = 53.5 K
+window 20-78 K, background off: n = 1.056, T* = 57.4 K
+window 20-78 K, background on : n = 1.190, T* = 53.6 K

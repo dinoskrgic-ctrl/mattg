@@ -1,0 +1,3 @@
+golden step (b,Q) = (np.float64(2.2815489805389184), np.float64(2.734175870612031))  conformal = (np.float64(3.000000003166292), np.float64(2.456604775180432))
+relaxed envelope max = [1.53915517 3.23371013]
+random mixtures: max Q = [2.28335053 2.73361408]  b range 2.283350534122545 9.78054608084341

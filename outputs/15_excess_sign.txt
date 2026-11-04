@@ -1,0 +1,7 @@
+tanh(y/2) conformal                        min dphi = -0.0010 at x=25.0; dphi(0) = 1.999; dphi(25) = -1.00e-03
+tanh(y/0.6)                                min dphi = +2.6314 at x=25.0; dphi(0) = 4.088; dphi(25) = +2.63e+00
+tanh(y/8)                                  min dphi = -5.1247 at x=25.0; dphi(0) = 0.602; dphi(25) = -5.12e+00
+tanh(y/20)                                 min dphi = -12.0981 at x=25.0; dphi(0) = 0.246; dphi(25) = -1.21e+01
+erf(y/3)                                   min dphi = -0.5772 at x=25.0; dphi(0) = 1.633; dphi(25) = -5.77e-01
+peaked: tanh(y/2)(1+2 y^2 e^{-y^2/8}/8)    min dphi = +1.5486 at x=2.2; dphi(0) = 2.606; dphi(25) = +2.51e+00
+dip: tanh(y/2)(1-0.8 e^{-(|y|-4)^2})       min dphi = -1.4190 at x=25.0; dphi(0) = 1.875; dphi(25) = -1.42e+00

@@ -1,0 +1,4 @@
+4-param fit D=0.20-0.38: R_el=0.633, W2=15.91 kOhm/(V/nm)^2, D0=0.184+-0.001, T*=58.1, rms=17.4 Ohm
+  D=0.14: best amplitude factor (data/extrapolation) = 1.01; elastic offset = 0.467 kOhm (vs 0.633); rms 17 Ohm
+  D=0.10: best amplitude factor (data/extrapolation) = 1.11; elastic offset = 0.356 kOhm (vs 0.633); rms 23 Ohm
+elastic offsets with the law fixed (D=0.14..0.38, 0.10): [0.469 0.61  0.641 0.649 0.641 0.643 0.613 0.388]

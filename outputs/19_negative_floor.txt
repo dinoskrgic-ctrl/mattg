@@ -1,0 +1,5 @@
+single steps with c'<=0: max Q = 2.6822 at s = 0.978 (c' = -0.034)
+   single step with c' = -0.10: Q = 2.577
+   single step with c' = -0.24: Q = 2.370
+   single step with c' = -0.53: Q = 1.969
+random mixtures with c'<=0: max Q = 2.7112 (its c' = -0.0149)

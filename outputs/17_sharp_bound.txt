@@ -1,0 +1,3 @@
+check step asymptote: phi_s(60)-60-c_s max |.| = 4.166258839255477e-06
+conformal (discretized): c'=-0.0456  Q=2.4068  (exact 2.4566)
+c_prime=0: sharp max Q = 2.7341, b_dial = 2.2821, C_b = 6.239; weight centred at s = 0.96 (spread 0.03); phi(0) = 1.610

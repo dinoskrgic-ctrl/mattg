@@ -1,0 +1,12 @@
+{'level': 'single', 'real': True}: rms 12.9 Ohm | R_el=0.768 c=25.59 D0=0.000+-0.000 kappa=0.65+-0.01 Delta=76+-0 K | T_max=56 K | quartic share of model slope at 0.38: -18.9%
+     D=0.14: T-dependent part data/model = 1.38; offset data-model = -128 Ohm
+     D=0.10: T-dependent part data/model = 1.99; offset data-model = -185 Ohm
+{'level': 'sym', 'real': True}: rms 16.7 Ohm | R_el=0.697 c=15.25 D0=0.156+-0.004 kappa=30.00+-23.04 Delta=2302+-1797 K | T_max=57 K | quartic share of model slope at 0.38: -0.3%
+     D=0.14: T-dependent part data/model = 1.10; offset data-model = -165 Ohm
+     D=0.10: T-dependent part data/model = 1.14; offset data-model = -245 Ohm
+{'level': 'single', 'real': False}: rms 12.5 Ohm | R_el=0.741 c=28.51 D0=0.000+-0.000 kappa=0.73+-0.02 Delta=93+-1 K | T_max=58 K | quartic share of model slope at 0.38: -22.1%
+     D=0.14: T-dependent part data/model = 1.31; offset data-model = -120 Ohm
+     D=0.10: T-dependent part data/model = 1.84; offset data-model = -172 Ohm
+{'level': 'sym', 'real': False}: rms 16.4 Ohm | R_el=0.701 c=15.55 D0=0.155+-0.004 kappa=3.16+-0.21 Delta=225+-13 K | T_max=57 K | quartic share of model slope at 0.38: -0.2%
+     D=0.14: T-dependent part data/model = 1.10; offset data-model = -165 Ohm
+     D=0.10: T-dependent part data/model = 1.15; offset data-model = -246 Ohm

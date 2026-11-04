@@ -1,0 +1,12 @@
+=== profile x/(1+x^2)
+ (c) K=1+kD^2, common R0, W=c(D^2+D0^2): rms 28.3 Ohm; R0=0.651+-0.005 kOhm c=30.2+-0.2 D0=0.000+-26276.926 k=-1.97+-0.02 (V/nm)^-2 scale=55.9 K
+     K(0.38)/K(0.14) = 0.74; inelastic rate ratio (0.38/0.14) = 7.37
+     D=0.10 predicted with no new parameter: rms 90 Ohm, mean offset +76 Ohm
+ (c0) same with k=0 (pure admixture, 4 params): rms 49.9 Ohm; D0=0.153
+ (d) K free per curve (10 params): rms 11.6 Ohm; K(D)/K(0.14) = [1.    1.17  1.2   1.205 1.197 1.199 1.179]; D0=0.186
+=== profile x e^-x
+ (c) K=1+kD^2, common R0, W=c(D^2+D0^2): rms 26.2 Ohm; R0=0.571+-0.006 kOhm c=41.6+-0.2 D0=0.072+-0.003 k=-2.03+-0.02 (V/nm)^-2 scale=57.9 K
+     K(0.38)/K(0.14) = 0.74; inelastic rate ratio (0.38/0.14) = 6.03
+     D=0.10 predicted with no new parameter: rms 79 Ohm, mean offset +69 Ohm
+ (c0) same with k=0 (pure admixture, 4 params): rms 50.1 Ohm; D0=0.187
+ (d) K free per curve (10 params): rms 13.1 Ohm; K(D)/K(0.14) = [1.    1.109 1.098 1.076 1.045 1.018 0.978]; D0=0.151
